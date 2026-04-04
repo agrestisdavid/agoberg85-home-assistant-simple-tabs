@@ -1,3 +1,5 @@
+# DONT USE THIS! ITS A PERSONAL FORK MODED WITH CLAUDE CODE FOR SOME TESTING! 
+# DOWNLOAD THE ORIGINAL REPO FROM: https://github.com/agoberg85/home-assistant-simple-tabs
 # Simple Tabs Card
 
 A clean and configurable tabs card for Home Assistant Dashboards.
